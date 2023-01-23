@@ -1,2 +1,2 @@
 # .github
-A (cute) details section for the is-cute GitHub page.
+A (cute) simple details section for the [is-cute](https://github.com/is-cute) GitHub profile.
