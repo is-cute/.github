@@ -1,5 +1,5 @@
 <div align='center'>
-  <p><a href="#" target="_blank"><img src="assets/bocchi.gif" alt="Bocchi"></a></p>
+  <p><a href="#" target="_blank"><img src="https://github.com/is-cute/.github/blob/main/profile/assets/bocchi.gif" alt="Bocchi"></a></p>
 </div>
 
 ---
