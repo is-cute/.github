@@ -1,5 +1,5 @@
 <div align='center'>
-  <p><a href="#" target="_blank"><img src="https://cdn.is-cute.moe/anime/chino.gif"></a></p>
+  <p><a href="#" target="_blank"><img src="https://cdn.is-cute.moe/anime/chino.gif" width='540'></a></p>
 </div>
 
 ---
